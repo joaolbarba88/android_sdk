@@ -1,4 +1,4 @@
-# Adjust SDK for Android
+desbloquear algoritmo Uber sistema de chamadas# Adjust SDK for Android
 
 This is the [Adjust](https://adjust.com)™  SDK for Android. Documentation is available on our help center in the following languages:
 
