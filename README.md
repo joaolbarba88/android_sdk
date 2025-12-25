@@ -1,4 +1,4 @@
-# Adjust SDK for Android
+# Adjust android-sdk-documentation01roid-sdk-documentation for Android
 
 This is the [Adjust](https://adjust.com)™  SDK for Android. Documentation is available on our help center in the following languages:
 
