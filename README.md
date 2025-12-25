@@ -1,5 +1,4 @@
-# Adjust SDK for Android
-
+<img width="1220" height="2712" alt="1000004137" src="https://github.com/user-attachments/assets/913ef65e-0d9f-4bad-a73c-e2277f2b1e58" />
 This is the [Adjust](https://adjust.com)™  SDK for Android. Documentation is available on our help center in the following languages:
 
 * [English][en-helpcenter]
